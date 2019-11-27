@@ -1,0 +1,316 @@
+﻿  colorManager.cpp
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(42,40): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(42,40): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(42,40): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(42,40): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(42,40): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(64,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(65,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(66,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(85,33): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(88,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(89,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(90,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(101,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(102,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(103,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(104,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(128,62): warning C4244: '=': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(128,62): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(128,62): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(128,62): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(128,62): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(132,66): warning C4244: '=': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(132,66): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(132,66): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(132,66): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(132,66): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(134,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(135,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(136,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(140,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(141,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(142,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(154,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(155,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(156,47): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(163,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(164,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(165,48): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(187,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(188,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(189,50): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(190,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(191,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244: '=': '_Ty' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:             _Ty=float
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         and
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(192,52): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(219,40): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(219,40): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(219,40): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(219,40): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(219,40): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(242,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(242,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(242,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(242,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(242,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(243,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(243,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(243,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(243,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(243,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(244,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(244,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(244,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(244,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(244,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(262,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(262,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(262,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(262,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(262,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(263,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(263,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(263,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(263,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(263,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(264,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(264,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(264,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(264,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(264,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(281,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(283,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(283,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(283,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(283,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(283,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(284,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(284,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(284,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(284,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(284,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(285,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(285,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(285,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(285,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(285,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(297,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(297,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(297,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(297,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(297,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(298,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(298,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(298,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(298,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(298,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(299,44): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(299,44): warning C4244:         with
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(299,44): warning C4244:         [
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(299,44): warning C4244:             _Tp=uchar
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(299,44): warning C4244:         ]
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(328,28): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(344,18): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(345,18): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(346,18): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(347,18): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(368,23): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\ColorChangeExperiment\colorManager.cpp(374,11): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  コード生成しています。
+  1 of 336 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ColorChangeExperiment.vcxproj -> C:\Users\Jayzon\Desktop\Program\ColorChangeExperiment\ColorChangeExperiment\x64\Release\ColorChangeExperiment.exe
